@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
   "name": "capstone",
   "license": "0BSD",
+=======
+  "name": "brooder",
+>>>>>>> 1fb77ad849c6f367548554bb9b62eedb9d42cad7
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,6 +14,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@react-native-community/datetimepicker": "8.4.4",
     "@react-navigation/bottom-tabs": "^7.2.3",
     "@react-navigation/native": "^7.1.19",
@@ -30,6 +35,13 @@
     "react-native-screens": "~4.16.0",
     "react-native-vector-icons": "^10.3.0",
     "react-native-web": "^0.21.0"
+=======
+    "expo": "~54.0.23",
+    "expo-status-bar": "~3.0.8",
+    "lucide-react-native": "^0.553.0",
+    "react": "19.1.0",
+    "react-native": "0.81.5"
+>>>>>>> 1fb77ad849c6f367548554bb9b62eedb9d42cad7
   },
   "private": true
 }

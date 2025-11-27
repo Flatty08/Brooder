@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "Capstone",
     "slug": "Capstone",
+=======
+    "name": "Brooder",
+    "slug": "Brooder",
+>>>>>>> 1fb77ad849c6f367548554bb9b62eedb9d42cad7
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,12 +29,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+<<<<<<< HEAD
     },
     "plugins": ["expo-video"],
     "extra": {
       "eas": {
         "projectId": "0fa4a57e-a0d6-44ce-925c-9eeb568812a8"
       }
+=======
+>>>>>>> 1fb77ad849c6f367548554bb9b62eedb9d42cad7
     }
   }
 }
